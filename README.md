@@ -15,7 +15,7 @@
   **https://www.linkedin.com/in/chirag-dhongadi**
 
 - 📄 Know about my experiences  
-  [Resume](https://drive.google.com/file/d/1lAJb3i-1rTuA96pgcHMn7AzCf2HcRNfx/view?usp=sharing)
+  [Resume](https://drive.google.com/file/d/15rdK9WHEmGOHuwx5G82ZswwzRof4Ervr/view?usp=sharing)
 
 - ⚡ Fun fact: **I love turning raw data into meaningful insights—and explaining complex concepts in a simple way 😄**
 

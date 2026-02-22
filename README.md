@@ -10,6 +10,9 @@
 
 - 💬 Ask me about **Data Analysis (EDA, visualization, insights), Python, SQL, Machine Learning, Deep Learning, Flask, and ML project deployment**
 
+- 🌐 Portfolio Website:  
+  **https://your-portfolio-link.com**
+
 - 📫 How to reach me:  
   **dhongadichirag@gmail.com**  
   **https://www.linkedin.com/in/chirag-dhongadi**
@@ -77,7 +80,4 @@
   </a>
 </p>
 
-
-
 <img src="https://raw.githubusercontent.com/chiragdhongadi/chiragdhongadi/output/snake.svg" alt="Snake animation" />
-

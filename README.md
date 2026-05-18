@@ -48,16 +48,6 @@ Always learning and exploring the future of AI.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChiragDhongadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Chirag Dhongadi stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragDhongadi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Chirag Dhongadi top languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/ChiragDhongadi">github.com/ChiragDhongadi</a></sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
